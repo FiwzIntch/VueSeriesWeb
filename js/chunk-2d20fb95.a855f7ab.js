@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20fb95"],{b59e:function(n,e,t){"use strict";t.r(e);var o=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div")},s=[],u={name:"westernseries",components:{},data:function(){return{}},mounted:function(){},methods:{}},c=u,r=t("2877"),a=Object(r["a"])(c,o,s,!1,null,"b53f6a96",null);e["default"]=a.exports}}]);
+//# sourceMappingURL=chunk-2d20fb95.a855f7ab.js.map
